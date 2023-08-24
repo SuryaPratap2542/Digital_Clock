@@ -18,7 +18,7 @@ This repository contains a simple HTML and JavaScript code to create both analog
 
 1. Clone the repository using the following command:
 
-git clone https://github.com/your-username/clock.git
+- git clone https://github.com/your-username/clock.git
 
 
 2. Open the `index.html` file in a web browser.
